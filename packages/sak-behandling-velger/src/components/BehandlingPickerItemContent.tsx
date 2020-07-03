@@ -67,13 +67,21 @@ const getÅrsak = (årsak) => {
     case 'RE-TILST-YT-OPPH':
       return 'Behandlingspunkt.Årsak.OpplysningerAnnenYtelse';
     case 'RE-HENDELSE-FØDSEL':
+    case 'RE-HENDELSE-FØDSEL-A':
+    case 'RE-HENDELSE-FØDSEL-K':
     case 'RE-FØDSEL':
       return 'Behandlingspunkt.Årsak.Fødsel';
     case 'RE-HENDELSE-DØD-F':
+    case 'RE-HENDELSE-DØD-F-A':
+    case 'RE-HENDELSE-DØD-F-K':
       return 'Behandlingspunkt.Årsak.SøkerDød';
     case 'RE-HENDELSE-DØD-B':
+    case 'RE-HENDELSE-DØD-B-A':
+    case 'RE-HENDELSE-DØD-B-K':
       return 'Behandlingspunkt.Årsak.BarnDød';
     case 'RE-HENDELSE-DØDFØD':
+    case 'RE-HENDELSE-DØDFØD-A':
+    case 'RE-HENDELSE-DØDFØD-K':
       return 'Behandlingspunkt.Årsak.Dødfødsel';
     case 'RE-REGISTEROPPL':
       return 'Behandlingspunkt.Årsak.NyeRegisteropplysninger';

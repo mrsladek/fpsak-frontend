@@ -1385,6 +1385,16 @@
         "kodeverk": "BEHANDLING_AARSAK"
       },
       {
+        "kode": "RE-HENDELSE-FØDSEL-A",
+        "navn": "Melding om annullert fødsel i folkeregisteret",
+        "kodeverk": "BEHANDLING_AARSAK"
+      },
+      {
+        "kode": "RE-HENDELSE-FØDSEL-K",
+        "navn": "Melding om korrigert fødsel i folkeregisteret",
+        "kodeverk": "BEHANDLING_AARSAK"
+      },
+      {
         "kode": "BERØRT-BEHANDLING",
         "navn": "Endring i den andre forelderens uttak",
         "kodeverk": "BEHANDLING_AARSAK"
@@ -1445,8 +1455,28 @@
         "kodeverk": "BEHANDLING_AARSAK"
       },
       {
+        "kode": "RE-HENDELSE-DØD-F-A",
+        "navn": "Melding om annullert død på forelder i folkeregisteret",
+        "kodeverk": "BEHANDLING_AARSAK"
+      },
+      {
+        "kode": "RE-HENDELSE-DØD-F-K",
+        "navn": "Melding om korrigert død på forelder i folkeregisteret",
+        "kodeverk": "BEHANDLING_AARSAK"
+      },
+      {
         "kode": "RE-HENDELSE-DØD-B",
         "navn": "Melding om registrert død på barn i folkeregisteret",
+        "kodeverk": "BEHANDLING_AARSAK"
+      },
+      {
+        "kode": "RE-HENDELSE-DØD-B-A",
+        "navn": "Melding om annullert død på barn i folkeregisteret",
+        "kodeverk": "BEHANDLING_AARSAK"
+      },
+      {
+        "kode": "RE-HENDELSE-DØD-B-K",
+        "navn": "Melding om korrigert død på barn i folkeregisteret",
         "kodeverk": "BEHANDLING_AARSAK"
       },
       {
@@ -1507,6 +1537,16 @@
       {
         "kode": "RE-HENDELSE-DØDFØD",
         "navn": "Melding om registrert dødfødsel i folkeregisteret",
+        "kodeverk": "BEHANDLING_AARSAK"
+      },
+      {
+        "kode": "RE-HENDELSE-DØDFØD-A",
+        "navn": "Melding om annullert dødfødsel i folkeregisteret",
+        "kodeverk": "BEHANDLING_AARSAK"
+      },
+      {
+        "kode": "RE-HENDELSE-DØDFØD-K",
+        "navn": "Melding om korrigert dødfødsel i folkeregisteret",
         "kodeverk": "BEHANDLING_AARSAK"
       },
       {
